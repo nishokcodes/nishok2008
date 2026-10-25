@@ -18,8 +18,6 @@ Currently focused on strengthening my programming fundamentals, solving algorith
 
 My interests include C++, AI/ML, and open-source development.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:1E3A8A,100:1E293B&height=70&section=footer&text=Keep%20Mining&fontSize=18&fontColor=BFDBFE&fontAlignY=65&animation=twinkling" width="100%" alt="Keep Mining"/>
-
 ---
 
 ## 🛠️ Tech Stack
