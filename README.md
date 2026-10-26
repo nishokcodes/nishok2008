@@ -35,9 +35,13 @@ My interests include C++, AI/ML, and open-source development.
 
 **[Python Holidays](https://github.com/vacanza/holidays)**
 
-Contributed to improving automated holiday tests by refactoring test cases and maintaining consistent test coverage.
+* Contributed to improving automated holiday tests by refactoring test cases and maintaining consistent test coverage.
 
-[View Pull Request →](https://github.com/vacanza/holidays/pull/3945)
+  [View Pull Request #3945 →](https://github.com/vacanza/holidays/pull/3945)
+
+* Added holiday localization support for **Eritrea** in **Tigrinya, Arabic, and English**.
+
+  [View Pull Request #3976 →](https://github.com/vacanza/holidays/pull/3976)
 
 ---
 
